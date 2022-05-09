@@ -1,0 +1,43 @@
+body {
+  background: black;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+}
+h4 {
+  color: white;
+  font-size: 1rem;
+}
+h6 {
+  color: white;
+}
+
+.clock {
+  width: 600px;
+  margin: 10% auto;
+  padding: 50px;
+  color: #db6400;
+  font-size: 60px;
+  font-family: 'M PLUS 1', sans-serif;
+  letter-spacing: 7px;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px;
+  background: white;
+  color: black;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 10px;
+  outline: none;
+}
+
+button:hover {
+  background: #db6400;
+  color: white;
+}
